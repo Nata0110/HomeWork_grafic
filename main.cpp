@@ -43,7 +43,7 @@ int main()
     std::cout << " |                                                 |" << std::endl;
     std::cout << " |_________________________________________________|" << std::endl;
 
-    std::cout << " \n Version #3: used Cycles" << std::endl;
+    std::cout << " \n Version #3: used Cycles \n" << std::endl;
     std::cout << " Write size of quadrate" << std::endl;
     int n;
     std::cin >> n;
@@ -58,10 +58,10 @@ int main()
     }
 
     std::cout << " \n Version #4: used Cycles. Write width and height" << std::endl;
-    std::cout << "Write width:" << std::endl;
+    std::cout << "Write width of rectangle:" << std::endl;
     int w;
     std::cin >> w;
-    std::cout << "Write height:" << std::endl;
+    std::cout << "Write height of rectangle:" << std::endl;
     int h;
     std::cin >> h;
 
